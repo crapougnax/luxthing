@@ -2,7 +2,7 @@
 <widget id="fr.lepine.lux" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>LuxThing</name>
     <description>A wearable Luxmeter</description>
-    <author email="olivier@lepine.fr" href="http://ionicframework.com/">Olivier Lépine</author>
+    <author email="olivier@lepine.fr" href="https://github.com/crapougnax/luxthing">Olivier Lépine</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />

@@ -24,7 +24,7 @@ export class MeasureProvider {
     });
   }
 
-  createMeasure(data: array) {
+  createMeasure(data: Array<string>) {
 
       this.data = {
           time: (new Date()).toISOString().slice(11, 19),

@@ -38,6 +38,8 @@ jspm_packages/
 platforms/
 plugins/
 resources/
+.sourcemaps/
+mobile-app/www/build/
 
 
 # Typescript v1 declaration files
