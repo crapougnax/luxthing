@@ -61,4 +61,4 @@ typings/
 # dotenv environment variables file
 .env
 
-src/app/credentials.ts
+credentials.ts
